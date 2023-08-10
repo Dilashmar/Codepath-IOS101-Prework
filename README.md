@@ -2,7 +2,7 @@
 
 Submitted by: **Dilashma Rajak**
 
-**ColorSwap Button** is an app that... [allows you to easily change the background color with just a click of a butto.n] 
+**ColorSwap Button** is an app that allows you to easily change the background color with just a click of a button
 
 Time spent: **3** hours spent in total
 
@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/Users/dilashmarajak/Downloads/Prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -28,13 +28,42 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
+**Pinterest**
+
+* Visual search feature that allows users to search using images to find related content and products
+* App's alogorithm that curates personalized feed
+* Users can shop directly from pins featuring products
+
+**Facebook**
+
+* Offers ability to create or join groups based on shared interest
+* Users can buy and sell items locally
+* Users can react to posts with a range of emotions, adding depth to interactions
+
+**Reddit**
+
+* Hosts a wide range of niche communities for users to discuss interests and hobbies
+* Comments are posted on organized threads, allowing for clear and in-depth responses
+* Users can seek advice and support from the community of interest
+
+**Spotify**
+
+* Users can create custom playlists of their own, tailoring their music experience to their prefrences
+* Allows for user sto collaborate with freinds on playlists
+* Displays real-time lyrics while listening to songs, enhancing the music experience
+
+##App IDEA
+
+**Deal Spotter**
+Deal Spotter would be an app that would allow users to discover unbeatable deals and limited-time offers on their favorite products. This app would have features such as real-time notifications, personalized reccomendations, and discount codes that would allow for users to shop while saving money.
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+While building ColorSwap Button, I had a bit of a hard time grasping the different panels in Xcode that were used to implement the objective of the app. However, with more time, I was able to navigate around and figure the implications behind each panel.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Dilashma Rajak
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
