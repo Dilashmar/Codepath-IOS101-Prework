@@ -2,7 +2,7 @@
 
 Submitted by: **Dilashma Rajak**
 
-**ColorSwap Button** is an app that allows you to easily change the background color with just a click of a button
+**ColorSwap Button** is an app that allows you to easily change the background color of your app with just a click of a button
 
 Time spent: **3** hours spent in total
 
@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 ![Prework](https://github.com/Dilashmar/Codepath-IOS101-Prework/assets/108285809/848943fc-0d32-4acf-aa48-4996a4c64343)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -52,9 +52,10 @@ GIF created with ...
 * Allows for user sto collaborate with freinds on playlists
 * Displays real-time lyrics while listening to songs, enhancing the music experience
 
-##App IDEA
+## App Idea
 
 **Deal Spotter**
+
 Deal Spotter would be an app that would allow users to discover unbeatable deals and limited-time offers on their favorite products. This app would have features such as real-time notifications, personalized reccomendations, and discount codes that would allow for users to shop while saving money.
 
 ## Notes
