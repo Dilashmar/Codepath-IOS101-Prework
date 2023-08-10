@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-/Users/dilashmarajak/Downloads/Prework.gif
+![Prework](https://github.com/Dilashmar/Codepath-IOS101-Prework/assets/108285809/848943fc-0d32-4acf-aa48-4996a4c64343)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
